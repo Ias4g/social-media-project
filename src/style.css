@@ -31,11 +31,13 @@ section {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 aside {
     position: absolute;
     top: 50%;
     right: 1rem;
 }
+
 aside li {
     list-style: none;
     margin-top: 0.3rem;
