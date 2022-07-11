@@ -27,6 +27,5 @@ section {
     height: 100px;
     background: red;
     position: absolute;
-    transform: translateY(-50%);
-    transform: translateX(-50%);
+    transform: translate(-50%);
 }
