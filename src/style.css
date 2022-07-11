@@ -32,3 +32,8 @@ section {
     background-repeat: no-repeat;
     background-size: cover;
 }
+aside {
+    position: absolute;
+    top: 50%;
+    right: 0;
+}
