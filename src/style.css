@@ -44,9 +44,10 @@ aside li {
 
 aside li a img {
     border-radius: 50%;
+    transition: all 400ms;
 }
 
-aside li a img:hover{
-    filter: brightness(.8);
-    transform: translateX(-10px);
+aside li a img:hover {
+    filter: brightness(0.8);
+    transform: translateX(-0.625rem);
 }
